@@ -20,7 +20,7 @@
 -For more information on wide vs. long format https://class.coursera.org/getdata-004/forum/thread?thread_id=262
 
 
- Important info
+ Important information
  
  A 561-feature vector with time and frequency domain variables in 'X_test.txt'and 'X_train.txt' 
  
