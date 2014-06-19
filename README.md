@@ -17,7 +17,8 @@
 
 -To facilitate visualizing the data into a txt file, there is an additional code to generate a long format version (11880 obs. of 5 variables).
 
--For more infor on wide vs. long format https://class.coursera.org/getdata-004/forum/thread?thread_id=262
+-For more information on wide vs. long format https://class.coursera.org/getdata-004/forum/thread?thread_id=262
+
 
  Important info
  
